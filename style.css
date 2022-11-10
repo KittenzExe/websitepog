@@ -1,6 +1,7 @@
 @font-face {
     font-family: Effra;
-    src: url("Effra_Std_Lt.ttf");
+    src: url("Effra_Std_Lt.ttf"), url("Effra_Std_Lt.woff") format("woff");
+    
 }
 
 body {
