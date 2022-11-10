@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Effra; /*a name to be used later*/
-    font: url("Effra_Std_Lt.ttf"); /*URL to font*/
+    font-family: Effra;
+    src: url("Effra_Std_Lt.ttf");
 }
 
 body {
@@ -36,14 +36,37 @@ body {
 .kittenzexeCluster {
     position: relative;
     right: 100px;
+    margin: 0;
 }
-
 
 .kittenzexeMain {
     font-family: Effra;
     color: #7d77d7;
     font-size: 100px;
     position: relative;
-    left: 10px;
-    bottom: 50px;
+    font-weight: bolder;
+    left: 20px;
+    bottom: 10px;
+    margin: 0;
+}
+.kittenzexeUpper {
+    font-family: Effra;
+    color: #b0d6e9;
+    font-size: 14px;
+    position: relative;
+    font-weight: bolder;
+    font-style: italic;
+    left: 26.2px;
+    bottom: 116.8px;
+    margin: 0;
+}
+.kittenzexeLower {
+    font-family: Effra;
+    color: #b0d6e9;
+    font-size: 50px;
+    position: relative;
+    font-weight: bolder;
+    left: 225px;
+    bottom: 64px;
+    margin: 0;
 }
