@@ -65,3 +65,7 @@ body {
     height: flex;
 }
 
+.twitch {
+    justify-content: center;
+}
+
