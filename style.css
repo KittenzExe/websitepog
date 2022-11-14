@@ -67,5 +67,11 @@ body {
 
 .twitch {
     justify-content: center;
+    background-color: black;
+}
+
+.twitch-embed {
+    justify-content: center;
+    background-color: black;
 }
 
