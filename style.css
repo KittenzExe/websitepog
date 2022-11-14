@@ -91,3 +91,25 @@ li a:hover:not(.active) {
 .active {
     background-color: #7d77d7;
   }
+
+.ul2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #1f1f1f;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    float: left;
+  }
+  
+  li .a a {
+    display: block;
+    float: left;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    align-items: center;
+  }
+  
