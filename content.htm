@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css" meta charset='utf-8'>
+<link rel="icon" href="https://avatars.githubusercontent.com/u/67358250?v=4">
+<title>Content</title>
+<html>
+    <body>
+        <div class="Headder">
+            <div class="navBarDots">
+                <div class="navBarTopGradient"></div>
+            </div>
+            <div class="KittenzexeCluster">
+                <div class="clusterMain">
+                    <h1><span class="kittenzexeMain">KittenzExe </span> <span class="kittenzexeLower"> 子猫エグゼ</span></h1>
+                </div>
+            </div>
+        </div>
+    </body>
+    <body>
+        <div class="ul">
+            <li><a href="portal.htm">Portal</a></li>
+            <li><a href="#news">Links</a></li>
+            <li><a class="active" href="content.html">Content</a></li>
+            <li><a href="index.htm">Home</a></li>
+        </div>
+    </body>
+    <body>
+        <div class="twitch">
+            <!-- Add a placeholder for the Twitch embed -->
+            <div id="twitch-embed"></div>
+
+            <!-- Load the Twitch embed JavaScript file -->
+            <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+            <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
+            <script type="text/javascript">
+            new Twitch.Embed("twitch-embed", {
+                width: 854,
+                height: 480,
+                channel: "kittenzexe",
+                // Only needed if this page is going to be embedded on other websites
+                parent: ["embed.example.com", "othersite.example.com"]
+            });
+            </script>
+        </div>
+    </body>
+</html>
