@@ -35,6 +35,7 @@ body {
     position: relative;
     right: 100px;
     margin: 0;
+    align-items: center;
 }
 
 .kittenzexeMain {
@@ -44,18 +45,7 @@ body {
     position: relative;
     font-weight: bolder;
     left: 20px;
-    bottom: 19px;
-    margin: 0;
-}
-.kittenzexeUpper {
-    font-family: Poppins;
-    color: #b0d6e9;
-    font-size: 14px;
-    position: relative;
-    font-weight: bolder;
-    font-style: italic;
-    left: 26.2px;
-    bottom: 153px;
+    bottom: 25px;
     margin: 0;
 }
 .kittenzexeLower {
@@ -64,8 +54,8 @@ body {
     font-size: 50px;
     position: relative;
     font-weight: bolder;
-    left: 260px;
-    bottom: 93px;
+    left: 10px;
+    bottom: 30px;
     margin: 0;
 }
 
