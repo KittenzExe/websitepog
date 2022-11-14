@@ -1,8 +1,4 @@
-@font-face {
-    font-family: Effra;
-    src: url("Effra_Std_Lt.ttf"), url("Effra_Std_Lt.woff") format("woff");
-    
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body {
     background-color: #404040;
@@ -42,7 +38,7 @@ body {
 }
 
 .kittenzexeMain {
-    font-family: Effra;
+    font-family: Poppins;
     color: #7d77d7;
     font-size: 100px;
     position: relative;
@@ -52,7 +48,7 @@ body {
     margin: 0;
 }
 .kittenzexeUpper {
-    font-family: Effra;
+    font-family: Poppins;
     color: #b0d6e9;
     font-size: 14px;
     position: relative;
@@ -63,7 +59,7 @@ body {
     margin: 0;
 }
 .kittenzexeLower {
-    font-family: Effra;
+    font-family: Poppins;
     color: #b0d6e9;
     font-size: 50px;
     position: relative;
