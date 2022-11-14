@@ -44,7 +44,7 @@ body {
     position: relative;
     font-weight: bolder;
     left: 20px;
-    bottom: 10px;
+    bottom: 19px;
     margin: 0;
 }
 .kittenzexeUpper {
@@ -55,7 +55,7 @@ body {
     font-weight: bolder;
     font-style: italic;
     left: 26.2px;
-    bottom: 116.8px;
+    bottom: 153px;
     margin: 0;
 }
 .kittenzexeLower {
@@ -64,8 +64,8 @@ body {
     font-size: 50px;
     position: relative;
     font-weight: bolder;
-    left: 225px;
-    bottom: 64px;
+    left: 260px;
+    bottom: 93px;
     margin: 0;
 }
 
