@@ -60,6 +60,12 @@ body {
     height: flex;
 }
 
+.walter-white {
+    text-align: center;
+    width: flex;
+    height: flex;
+}
+
 .ul {
     list-style-type: none;
     bottom: 100px;
