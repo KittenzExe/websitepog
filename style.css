@@ -137,3 +137,10 @@ li a:hover:not(.active) {
     text-align: center;
     font-weight: bold;
 }
+
+.alexa {
+  font-family: Poppins;
+  text-align: center;
+  font-weight: bold;
+  color: #111111;
+}
