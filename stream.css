@@ -1,0 +1,106 @@
+body {
+    background-color: lightcyan;
+    margin: 0px;
+    padding: 0px;
+}
+
+.taskbar-main {
+    background-color: #222222;
+    width: 100%;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    bottom: 0%;
+}
+
+.taskbar-left-main {
+    background-color: #222222;
+    width: 50px;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    object-position: center;
+}
+.win-logo {
+    height: 25px;
+    width: 25px;
+    margin-left: 12.5px;
+    margin-top: 7.5px;
+    overflow: hidden;
+}
+
+.taskbar-left-main-2 {
+    background-color: #222222;
+    width: 50px;
+    height: 40px;
+    margin: 0px;
+    margin-left: 50px;
+    padding: 0px;
+    position: fixed;
+    object-position: center;
+}
+.flex-logo {
+    height: 25px;
+    width: 25px;
+    margin-left: 12.5px;
+    margin-top: 7.5px;
+    overflow: hidden;
+}
+
+.taskbar-left-main-3 {
+    background-color: #333333;
+    width: 50px;
+    height: 40px;
+    margin: 0px;
+    margin-left: 100px;
+    padding: 0px;
+    position: fixed;
+    object-position: center;
+}
+.kittenz-logo {
+    height: 25px;
+    width: 25px;
+    margin-left: 12.5px;
+    margin-top: 7.5px;
+    overflow: hidden;
+}
+.taskbar-left-main-highlight-s {
+    background-color: #555555;
+    width: 50px;
+    height: 2px;
+    margin-left: 0px;
+    margin-top: 2px;
+    padding: 0px;
+    position: fixed;
+    object-position: center;
+}
+
+.taskbar-left-main-4 {
+    background-color: #222222;
+    width: 50px;
+    height: 40px;
+    margin: 0px;
+    margin-left: 150px;
+    padding: 0px;
+    position: fixed;
+    object-position: center;
+}
+.obs-logo {
+    height: 25px;
+    width: 25px;
+    margin-left: 12.5px;
+    margin-top: 7.5px;
+    overflow: hidden;
+}
+.taskbar-left-main-highlight {
+    background-color: #555555;
+    width: 40px;
+    height: 2px;
+    margin-left: 5px;
+    margin-top: 2px;
+    padding: 0px;
+    position: fixed;
+    object-position: center;
+}
